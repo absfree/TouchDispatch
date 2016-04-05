@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <com.yxy.zlp.touchdispatch.ParentLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@android:color/holo_red_light">
+        <com.yxy.zlp.touchdispatch.ChildLayout
+            android:layout_width="240dp"
+            android:layout_height="400dp"
+            android:gravity="center"
+            android:background="@android:color/holo_green_light">
+            <com.yxy.zlp.touchdispatch.CustomButton
+                android:layout_width="120dp"
+                android:layout_height="200dp"
+                android:text="CustomButton"
+                android:background="@android:color/holo_blue_light"/>
+        </com.yxy.zlp.touchdispatch.ChildLayout>
+    </com.yxy.zlp.touchdispatch.ParentLayout>
+</RelativeLayout>
