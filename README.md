@@ -1,5 +1,5 @@
 # TouchDispatch
 # 彻底理解Android中触摸事件的分发
 
-###实现方法请参考以下博文：
-[详解Android中实现View滑动的几种方式](http://www.cnblogs.com/absfree/p/5352258.html)  
+###详细讲解请见以下博文：
+[一个demo让你彻底理解Android中触摸事件的分发](http://www.cnblogs.com/absfree/p/5354511.html)  
