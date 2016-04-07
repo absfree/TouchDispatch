@@ -1,4 +1,3 @@
-# TouchDispatch
 # 彻底理解Android中触摸事件的分发
 
 ###详细讲解请见以下博文：
